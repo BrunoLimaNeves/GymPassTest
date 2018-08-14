@@ -1,0 +1,15 @@
+OBSERVACAO
+1) Aplicação considera que o primeiro argumento da linha de execução no método principal (main) é o completo do arquivo. Nos teste foi usado o valor: C:\\Users\\bruno.lima.neves\\Desktop\\KartLogs.txt
+
+2) O enunciado do problema diz: "A partir de um input de um arquivo de log do formato acima, montar o resultado da corrida com as seguintes informações...".
+Não é mencionado qual o formato nem como o resultado deve ser disponibilizado. Para fins de simplificação, optou-se por imprimir o resultado no Console.
+
+3) Itens do enunciado cobertos:
+
+	a) A partir de um input de um arquivo de log do formato acima, montar o resultado da corrida com as seguintes informações:
+		 Posição Chegada, Código Piloto, Nome Piloto, Qtde Voltas Completadas e Tempo Total de Prova.
+		 
+	b) Bônus:
+		- Descobrir a melhor volta de cada piloto
+		- Calcular a velocidade média de cada piloto durante toda corrida;
+		- Melhor volta da corrida;
